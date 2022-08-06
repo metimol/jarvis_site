@@ -1,0 +1,1 @@
+!function(s){"use strict";jQuery.fn.vApp=function(t){t.layout&&s(this).addClass(t.layout),t.skin&&s(this).addClass(t.skin),t.pattern&&s(this).addClass(t.pattern)}}(jQuery);
